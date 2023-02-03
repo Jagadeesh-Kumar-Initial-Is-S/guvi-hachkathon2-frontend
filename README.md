@@ -18,6 +18,14 @@ Front-end Deployed URL's link is equal to https://guvi-hachkathon2-frontend.verc
 
 <hr/>
 
+# Installation
+
+Install legacy peer dependencies should get you running
+
+npm install --legacy-peer-deps
+
+<hr/>
+
 # Screenshots
 
 ## Screenshot 1
