@@ -29,8 +29,8 @@ const handleSubmit = (e)=>{
   e.preventDefault();
 
     var options = {
-      key: "rzp_test_YvJwKVZrHVdRho",
-      key_secret:"f2efODc9Nfeyq94zlute4GUe",
+      key: "rzp_test_yl5ED8ivCfD3dM",
+      key_secret:"lKiTrGtlL4HdorDh3oqpxBEs",
       amount: totalprice *100,
       currency:"INR",
       name:"STARTUP_PROJECTS",
@@ -39,9 +39,9 @@ const handleSubmit = (e)=>{
         alert(response.razorpay_payment_id);
       },
       prefill: {
-        name:"Mustafa",          
-        email:"mustafaforever21@gmail.com",
-        contact:"9751317750"
+        name:"Jagadeesh Kumar . S",          
+        email:"jagadeesh_2k17@proton.me",
+        contact:"+917397285837"
       },
       notes:{
         address:"Razorpay Corporate office"
